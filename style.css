@@ -1,14 +1,8 @@
-@font-face{
-    font-family: Concert One;
-    src: url(fuentes/ConcertOne-Regular.ttf);
-    font-family: Poppins;
-    src: url(funtes/Poppins-Regular.ttf);
-}
 
 *{
     margin: 0;
     padding: 0;
-    font-family: Concert One;
+    font-family: 'Concert One', sans-serif;
 }
 
 body{
