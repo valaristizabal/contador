@@ -12,6 +12,7 @@
 }
 
 body{
+    padding: 10px;
     background-color: rgb(253, 233, 255);
     margin-top: 20px;
 }
