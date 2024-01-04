@@ -1,0 +1,73 @@
+@font-face{
+    font-family: Concert One;
+    src: url(fuentes/ConcertOne-Regular.ttf);
+    font-family: Poppins;
+    src: url(funtes/Poppins-Regular.ttf);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Concert One;
+}
+
+body{
+    background-color: rgb(253, 233, 255);
+    margin-top: 20px;
+}
+
+.titulo{
+    font-size: 50px;
+}
+
+.val{
+    color: rgb(0, 60, 238);
+}
+
+.abi{
+    color: rgb(255, 0, 204);
+}
+
+.dias_juntas{
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 25px;
+    width: 250px;
+    height: 120px;
+    color: white;
+    background-color: rgb(255, 32, 210); 
+    -webkit-box-shadow: 6px 6px 38px -1px rgba(239,15,255,0.69);
+    -moz-box-shadow: 6px 6px 38px -1px rgba(239,15,255,0.69);
+    box-shadow: 6px 6px 38px -1px rgba(239,15,255,0.69);
+}
+
+.dias_juntas h2{
+    font-family: Poppins;
+    font-size: 40px;
+}
+
+.dias_juntas h1{
+    font-family: Poppins;
+    font-size: 30px;
+}
+
+.fechas_importantes{
+    margin-top: 30px;
+}
+
+
+.fechas_importantes h1{
+    font-size: 40px;
+}
+
+.fechas_importantes h2{
+    margin-top: 20px;
+    font-size: 25px;
+    font-family: Poppins;
+}
+
+#cuenta_abi{
+    font-size: 20px;
+    font-family: Poppins;
+    color: rgb(255, 0, 204);
+}
